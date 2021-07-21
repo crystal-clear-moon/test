@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "node sum.js",
     "test": "jest"
   },
   "devDependencies": {
